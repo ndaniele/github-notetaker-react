@@ -1,8 +1,9 @@
 # github-notetaker-react
 
-An App built with the React client framework using React Router, Webpack, Re-base, and ES6 syntax including arrow functions and stateless functional components. 
+An App built with the React client framework using React Router, Webpack, Re-base, and ES6 syntax including arrow functions and stateless functional components.
 
 # Instructions
 
-npm install
-webpack -w
+$ npm install
+
+$ webpack -w
