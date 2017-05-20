@@ -7,3 +7,6 @@ An App built with the React client framework using React Router, Webpack, Re-bas
 $ npm install
 
 $ webpack -w
+
+#Much Thanks to Tyler Mcginnis! <br />
+<a href="https://egghead.io/courses/build-your-first-react-js-application">Build Your First React App</a> is an egghead lesson series.
