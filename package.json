@@ -5,9 +5,10 @@
   "main": "index.js",
   "engines": {
    "node": "6.4.0"
- }
+ },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack -w",
+    "postinstall": "npm run build"
   },
   "author": "",
   "license": "ISC",
