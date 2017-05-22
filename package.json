@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "engines": {
-   "node": "6.4.0"
+   "node": "6.4.0",
+   "npm": "3.10.3"
  },
   "scripts": {
-    "build": "webpack",
+    "build": "webpack -w",
     "postinstall": "npm run build"
   },
   "author": "",
