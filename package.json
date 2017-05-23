@@ -4,17 +4,18 @@
   "description": "",
   "main": "index.js",
   "engines": {
-   "node": "6.4.0",
-   "npm": "3.10.3"
- },
+    "node": "6.4.0",
+    "npm": "3.10.3"
+  },
   "scripts": {
-    "build": "webpack",
-    "start": "webpack -w"
+    "start": "node server.js",
+    "postinstall": "npm run build"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.8.0",
+    "ecstatic": "^2.1.0",
     "firebase": "^2.3.2",
     "history": "^1.13.1",
     "re-base": "1.5.1",
