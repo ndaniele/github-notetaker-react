@@ -8,8 +8,8 @@
    "npm": "3.10.3"
  },
   "scripts": {
-    "build": "webpack -w",
-    "postinstall": "npm run build"
+    "build": "webpack",
+    "start": "webpack -w"
   },
   "author": "",
   "license": "ISC",
