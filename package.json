@@ -19,6 +19,7 @@
     "history": "^1.13.1",
     "re-base": "1.5.1",
     "react": "^0.14.3",
+    "react-dom": "^0.14.3",
     "react-router": "^1.0.1",
     "reactfire": "^0.5.1"
   },
