@@ -4,7 +4,7 @@
   "description": "a github notetaker app using ReactJS",
   "repository": "https://github.com/ndaniele/github-notetaker-react",
   "engines": {
-    "node": "6.4.0",
+    "node": "6.4.0"
   },
   "scripts": {
     "build": "webpack",
